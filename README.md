@@ -1,12 +1,10 @@
-# Nayttoprojekti
+# AutoMarket
 
-A repository for upcoming final project. It is an application for a hypothetical company, AutoMarket, that specializes in buying and selling used vehicles, with two "market places", one meant for car dealerships and the other for users. The users have access to the dealerships' listings and dealerships are able to view the users' listings. Users and dealerships have access to the UI application, and both of them have their own "market view". AutoMarket acts as the middle-man, and the service includes the creation of listings, marketing, customer service--including reclamation handling--and contract handling, for example archiving and collaboration with the dealerships' accounting. The actual dealings will happen between the customer and dealership. AutoMarket will have their own software for creating the listings and storing them in a database. The dealerships and users have no access to the software. Dealerships can leave "Buying"-listings and customers can offer their vehicles to them.
-
-As compensation for the service dealerships will choose a monthly payment package, the cost of which is based on the amount of listings and other needed services. Users will be charged a modest amount for their listing and the amount of time they want it to stay up. The user friendly application will give customers easy access to the dealership inventories. The app user will have a wide variety of characteristics to choose from, such as the make, model, mileage, color, fuel type, and transmission.
+A repository for final project. It is an application (AutoMarket) for buying, selling and swapping used vehicles. Users create an account to put up listings. Listings are created by filling out a form with a wide variety of characteristics to choose from, such as the make, model, mileage, color, fuel type, and transmission. The listings include a contact form that potential buyers can use to reach the seller. The app is for both car dealerships and private users. While private user accounts are hidden from others, dealerships have a public user page that includes all their listings and information. The app is created with Expo.
 
 Title: Näyttöprojekti  
 Author: Cecilia Hansumäe  
-Date: 26/01/2024  
+Date: 08/03/2024  
 Version: 1.0  
 Description: Application for car listings  
 
@@ -28,7 +26,6 @@ Description: Application for car listings
 - Pictures
 - Vehicle information
 - Details
-- Dealership's information
 - Contact form
 
 ## Search form
