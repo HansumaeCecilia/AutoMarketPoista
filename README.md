@@ -41,3 +41,5 @@ Description: Application for car listings
 - Odometer
 - Transmission
 - Accessories
+
+  ![Näyttö-Figma](https://github.com/HansumaeCecilia/AutoMarket/assets/122267926/48b07215-c65a-40b0-a79e-eb4ec196d2b2)
