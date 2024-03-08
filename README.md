@@ -4,11 +4,11 @@ A repository for upcoming final project. It is an application for a hypothetical
 
 As compensation for the service dealerships will choose a monthly payment package, the cost of which is based on the amount of listings and other needed services. Users will be charged a modest amount for their listing and the amount of time they want it to stay up. The user friendly application will give customers easy access to the dealership inventories. The app user will have a wide variety of characteristics to choose from, such as the make, model, mileage, color, fuel type, and transmission.
 
-Title: Näyttöprojekti 
-Author: Cecilia Hansumäe 
-Date: 26/01/2024 
-Version: 1.0 
-Description: Application for car listings 
+Title: Näyttöprojekti  
+Author: Cecilia Hansumäe  
+Date: 26/01/2024  
+Version: 1.0  
+Description: Application for car listings  
 
 ## Front page
 
